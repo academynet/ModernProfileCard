@@ -11,7 +11,7 @@ Demo:
 
 </br>
 
-![ProfileCard_project (Time 0_00_01;23)](https://github.com/academynet/ModernProfileCard/assets/139820934/4f45d828-5406-47d8-bc21-9c5b781f91bc)
-![ProfileCard_project (Time 0_00_18;27)](https://github.com/academynet/ModernProfileCard/assets/139820934/2530fbbf-df71-4fbe-8090-16f00b91cf43)
-![ProfileCard_project (Time 0_00_24;04)](https://github.com/academynet/ModernProfileCard/assets/139820934/42457f49-029b-46da-a7b6-60a7ae4f4181)
-![ProfileCard_project_Thumb](https://github.com/academynet/ModernProfileCard/assets/139820934/618c10a8-f1ca-4d9a-89db-cf1565aef9f3)
+![ProfileCard_project_AcademyNet](https://github.com/academynet/ModernProfileCard/assets/139820934/a4e8f67d-89f2-4448-ae29-821b2b579aea)
+![ProfileCard_project_AcademyNet png](https://github.com/academynet/ModernProfileCard/assets/139820934/f985aeb5-e6b5-48a2-b4c4-2d765301976e)
+![ProfileCard_project_AcademyNet png (2)](https://github.com/academynet/ModernProfileCard/assets/139820934/aa77403d-a397-4180-883f-252c7455dbf6)
+![ProfileCard_project_Thumb_AcademyNet](https://github.com/academynet/ModernProfileCard/assets/139820934/ab4ed0c9-7ae9-4d5b-a9ae-72fa282451b1)
